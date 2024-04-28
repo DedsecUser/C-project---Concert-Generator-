@@ -1,0 +1,29 @@
+﻿  Concert.c
+D:\ACADEMY\C new level\PROJECT\ProjectC\ProjectC\Concert.c(39,22): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\ACADEMY\C new level\PROJECT\ProjectC\ProjectC\Concert.c(40,41): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\ACADEMY\C new level\PROJECT\ProjectC\ProjectC\Concert.c(68,25): warning C4133: '=': incompatible types - from 'ConcertInstrumentNode *' to 'ConcertInstrument *'
+D:\ACADEMY\C new level\PROJECT\ProjectC\ProjectC\Concert.c(84,25): warning C4133: '=': incompatible types - from 'ConcertInstrumentNode *' to 'ConcertInstrument *'
+D:\ACADEMY\C new level\PROJECT\ProjectC\ProjectC\Concert.c(179,78): warning C4090: 'function': different 'const' qualifiers
+D:\ACADEMY\C new level\PROJECT\ProjectC\ProjectC\Concert.c(179,78): warning C4028: formal parameter 1 different from declaration
+D:\ACADEMY\C new level\PROJECT\ProjectC\ProjectC\Concert.c(179,78): warning C4028: formal parameter 2 different from declaration
+D:\ACADEMY\C new level\PROJECT\ProjectC\ProjectC\Concert.c(181,78): warning C4090: 'function': different 'const' qualifiers
+D:\ACADEMY\C new level\PROJECT\ProjectC\ProjectC\Concert.c(181,78): warning C4028: formal parameter 1 different from declaration
+D:\ACADEMY\C new level\PROJECT\ProjectC\ProjectC\Concert.c(181,78): warning C4028: formal parameter 2 different from declaration
+D:\ACADEMY\C new level\PROJECT\ProjectC\ProjectC\Concert.c(147,29): warning C4101: 'name': unreferenced local variable
+D:\ACADEMY\C new level\PROJECT\ProjectC\ProjectC\Concert.c(151,7): warning C4101: 'c': unreferenced local variable
+D:\ACADEMY\C new level\PROJECT\ProjectC\ProjectC\Concert.c(200,32): warning C4133: '=': incompatible types - from 'Musician **' to 'Musician **'
+D:\ACADEMY\C new level\PROJECT\ProjectC\ProjectC\Concert.c(215,24): warning C4133: '=': incompatible types - from 'ConcertInstrument *' to 'ConcertInstrumentNode *'
+D:\ACADEMY\C new level\PROJECT\ProjectC\ProjectC\Concert.c(224,13): warning C4101: 'arr': unreferenced local variable
+D:\ACADEMY\C new level\PROJECT\ProjectC\ProjectC\Concert.c(223,13): warning C4101: 'CurrMusicianPrice': unreferenced local variable
+D:\ACADEMY\C new level\PROJECT\ProjectC\ProjectC\Concert.c(252,32): warning C4133: '=': incompatible types - from 'Musician **' to 'Musician **'
+D:\ACADEMY\C new level\PROJECT\ProjectC\ProjectC\Concert.c(262,26): warning C4133: 'function': incompatible types - from 'Musician *' to 'Musician *'
+D:\ACADEMY\C new level\PROJECT\ProjectC\ProjectC\Concert.c(264,35): warning C4047: '=': 'char **' differs in levels of indirection from 'char *'
+D:\ACADEMY\C new level\PROJECT\ProjectC\ProjectC\Concert.c(266,48): warning C4133: 'function': incompatible types - from 'MPIList *' to 'MPIList *'
+D:\ACADEMY\C new level\PROJECT\ProjectC\ProjectC\Concert.c(272,24): warning C4133: '=': incompatible types - from 'ConcertInstrument *' to 'ConcertInstrumentNode *'
+D:\ACADEMY\C new level\PROJECT\ProjectC\ProjectC\Concert.c(277,30): warning C4028: formal parameter 1 different from declaration
+D:\ACADEMY\C new level\PROJECT\ProjectC\ProjectC\Concert.c(295,31): warning C4133: '=': incompatible types - from 'Musician **' to 'Musician **'
+D:\ACADEMY\C new level\PROJECT\ProjectC\ProjectC\Concert.c(301,30): warning C4028: formal parameter 1 different from declaration
+D:\ACADEMY\C new level\PROJECT\ProjectC\ProjectC\Concert.c(311,13): warning C4133: 'function': incompatible types - from 'InstrumentTree *' to 'InstrumentTree *'
+D:\ACADEMY\C new level\PROJECT\ProjectC\ProjectC\Concert.c(321,1): warning C4133: 'initializing': incompatible types - from 'Musician *' to 'Musician *'
+D:\ACADEMY\C new level\PROJECT\ProjectC\ProjectC\Concert.c(346,23): warning C4133: '=': incompatible types - from 'ConcertInstrument *' to 'ConcertInstrumentNode *'
+  ProjectC.vcxproj -> D:\ACADEMY\C new level\PROJECT\ProjectC\Debug\ProjectC.exe
